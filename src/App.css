@@ -1,0 +1,17 @@
+body {
+  background-color: #323829;
+}
+.App {
+  display: table;
+  margin: 0 auto;
+}
+
+.showCase {
+  display: flex;
+  flex-direction: row;
+}
+
+.showCase > .slider-card {
+  margin-top: 50px;
+  margin-left: 40px;
+}
